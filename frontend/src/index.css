@@ -34,28 +34,28 @@
   font-family: 'Halenoir';
   src: url(./assets/Fonts/HalenoirCompact-Regular.otf) format('truetype');
   font-weight: normal;
-  font-style: compact;
+  font-style: normal;
 }
 
 @font-face {
   font-family: 'Halenoir';
   src: url(./assets/Fonts/HalenoirCompact-Medium.otf) format('truetype');
-  font-weight: medium;
-  font-style: compact;
+  font-weight: 500;
+  font-style: normal;
 }
 
 @font-face {
   font-family: 'Halenoir';
   src: url(./assets/Fonts/HalenoirCompact-Bold.otf) format('truetype');
   font-weight: Bold;
-  font-style: compact;
+  font-style: normal;
 }
 
 @font-face {
   font-family: 'Halenoir';
   src: url(./assets/Fonts/HalenoirCompact-Light.otf) format('truetype');
-  font-weight: light;
-  font-style: compact;
+  font-weight: 300;
+  font-style: normal;
 }
 
 @font-face {
@@ -69,6 +69,7 @@
   font-family: system-ui, Coolvetica, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
+  overflow-x: hidden;
 
   /* color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);

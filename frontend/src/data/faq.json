@@ -1,0 +1,27 @@
+[
+  {
+    "id": "q1",
+    "question": "What is a church management software?",
+    "answer": "A platform that centralizes member records, communications, attendance, giving, teams/ministries, events, and reports so the staff can run the church efficiently."
+  },
+  {
+    "id": "q2",
+    "question": "Is the software easy to use for people who aren't tech-savvy?",
+    "answer": "Yes. The UI is task-focused with clear labels and mobile-friendly flows. Training resources and tooltips help non-technical users succeed."
+  },
+  {
+    "id": "q3",
+    "question": "Can I track attendance and involvement?",
+    "answer": "You can track service attendance, group participation, and trends over time, and export or visualize the data on dashboards."
+  },
+  {
+    "id": "q4",
+    "question": "Is our church’s data secure?",
+    "answer": "Data is encrypted in transit and at rest, with role-based access and audit logs. Admins control who sees what."
+  },
+  {
+    "id": "q5",
+    "question": "Does the software support multiple campuses or ministries?",
+    "answer": "Yes. You can manage campuses and ministries separately, then roll up reports across the whole organization."
+  }
+]

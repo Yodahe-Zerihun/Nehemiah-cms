@@ -11,8 +11,8 @@ export default function Header() {
           </div>
           <nav className="ml-auto hidden md:flex items-center gap-8">
             <a className="hover:opacity-80" href="#">Home</a>
-            <a className="hover:opacity-80" href="#">About</a>
-            <a className="hover:opacity-80" href="#">Contact</a>
+            <a className="hover:opacity-80" href="#about">About</a>
+            <a className="hover:opacity-80" href="#contact">Contact</a>
             <button className="rounded-xl px-4 py-2 font-medium bg-zinc-900 text-white shadow hover:shadow-lg transition hover:bg-[#5e7f7f]">
               Get Started
             </button>

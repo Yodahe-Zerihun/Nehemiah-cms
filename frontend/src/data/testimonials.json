@@ -1,0 +1,26 @@
+[
+  {
+    "id": "t1",
+    "rating": 5,
+    "quote": "This software has truly transformed the way we manage our church. Member records, events, and donations are all organized in one place—saving us hours every week!",
+    "name": "Pastor Samuel Tesfaye",
+    "title": "Kofle Kalehiwot Church",
+    "avatarUrl": "/src/assets/Man.jpg"
+  },
+  {
+    "id": "t2",
+    "rating": 5,
+    "quote": "Our team loves how easy it is to use. Communication with our congregation has never been better, and we finally have real insight into attendance and engagement.",
+    "name": "Church Admin",
+    "title": "Grace Fellowship",
+    "avatarUrl": "/src/assets/Women.jpg"
+  },
+  {
+    "id": "t3",
+    "rating": 5,
+    "quote": "From online giving to volunteer scheduling, everything just works. It’s made a huge difference in how connected and organized our community feels.",
+    "name": "Rev. Anita M.",
+    "title": "Kofle Kalehiwot Church",
+    "avatarUrl": "/src/assets/Women2.jpg"
+  }
+]
